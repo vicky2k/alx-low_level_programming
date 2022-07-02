@@ -1,4 +1,5 @@
-i#include <stdio.h>
+#include <stdio.h>
+#include <stdlib.h>
 /**
  * main - main block to be executed
  * Description - prints lower case, then upper case then new line

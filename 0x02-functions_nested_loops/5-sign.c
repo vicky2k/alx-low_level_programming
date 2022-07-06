@@ -20,7 +20,7 @@ else if ( n == 0)
 else
 {
 	numz = -1;
-	_putchar('-1);
+	_putchar('-');
 }
 return (numz);
 }

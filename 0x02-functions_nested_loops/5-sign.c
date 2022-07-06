@@ -12,7 +12,7 @@ if (n > 0)
 	numz = 1;
 	_putchar('+');
 }
-else if ( n == 0)
+else if (n == 0)
 {
 	numz = 0;
 	_putchar('0');
